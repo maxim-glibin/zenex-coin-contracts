@@ -7,5 +7,15 @@
       "website": "https://zenex-coin.com",
       "twitter": "https://twitter.com/enzenex",
       "telegram": "https://t.me/zenexcoin"
-    }
+    },
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Utility"
+      },
+      {
+        "trait_type": "Blockchain",
+        "value": "Solana"
+      }
+    ]
   }
