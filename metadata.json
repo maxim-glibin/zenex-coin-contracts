@@ -1,0 +1,11 @@
+{
+    "name": "ZeNeX Token Dev",
+    "symbol": "ZNX",
+    "description": "ZeNeX Coin is recharging the balance of online services. Innovative financial solutions for fiats and crypto.",
+    "image": "https://zenex-coin.com/en/assets/znx-logo.png",
+    "extensions": {
+      "website": "https://zenex-coin.com",
+      "twitter": "https://twitter.com/enzenex",
+      "telegram": "https://t.me/zenexcoin"
+    }
+  }
